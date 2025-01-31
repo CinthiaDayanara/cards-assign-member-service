@@ -1,1 +1,7 @@
-cards-assign-member-service
+fastapi
+graphene
+uvicorn
+sqlalchemy
+asyncpg
+python-dotenv
+pydantic
